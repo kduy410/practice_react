@@ -1,0 +1,7 @@
+[submodule "practice"]
+	path = /practice
+	url = https://github.com/kduy410/practice.git
+
+[submodule "emojipedia"]
+	path =/emojipedia
+	url = https://github.com/kduy410/emojipedia
